@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_5653b8f5344b1400422b14cc051e21d7e72e7c09.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_4a0dc7bf4be4d3ae9f1230ef15e606c3a59461d5.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_43e9ecadc0a8ff2564fd9502a848938866e4139b.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5164b4b1ef6315a762962ae8515034c4a6a63a79">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run_a89ce2424e8bc8cfc9c9dcc0081902afef47a932.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_49ca8c5c766207005fccd0b7c1f145b44753df49.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_a393d1a932932e54d3a77c1d42fa8a45a2a0549f.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="ca274203adc854ab23caedc4c6163665972b1f9e">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_d1ccf965e61a1460fd294f4dc31c36255cbed1b2.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_ce3b999e2e1d91b3bbe6948d260a32a188116e9b.jar" />
+    </item>
+    <item
+        jar="D:\sdk\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_6551731f2c72836a3c81a471565c5aa951857bb7.jar" />
+    </item>
+    <item
+        jar="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="E:\AndroidStudioProjects\CoolWeather\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_3d693ac050bf6e108402192bb46db7f9d2943281.jar" />
+    </item>
+
+</items>
